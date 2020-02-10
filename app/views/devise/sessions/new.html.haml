@@ -3,7 +3,7 @@
     .account-page__inner--left.account-page__header
       %h2 Log in
       .account-page__inner--left.account-page__header__image
-        =image_tag("login.jpg",width:"300",height:"200")
+        =image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTykGvrxjii1BeQFFpraOumiDYenpSMPD3HVWNJm0hawhxlNfZ4",width:"300",height:"200")
     .account-page__inner--right.user-form
       = form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
         .field
