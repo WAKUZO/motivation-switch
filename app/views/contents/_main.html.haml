@@ -1,0 +1,20 @@
+.main
+  .main__header
+    =render "main__header"
+  
+  .main__center
+    .main__center__left
+      %audio{id:"audio"}
+        %source{ src:"/assets/情熱大陸 OP.mp3"}
+      .main__center__left__name
+        本田 圭佑
+      .main__center__left__work
+        サッカー選手
+    .main__center__image
+      =link_to image_tag("本田圭佑2.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2133950543504842601"
+      .text
+        ☝︎名言集は画像をClick!!
+
+  .footer
+    .footer__message
+      「成功」に捉われるな、『成長』に捉われろ!!

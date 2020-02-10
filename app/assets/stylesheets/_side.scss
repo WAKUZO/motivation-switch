@@ -1,0 +1,83 @@
+.side{
+  height:520px;
+  width:150px;
+  background-color: white;
+  position: relative;
+  position: fixed;
+  @media screen and (max-width: 812px) { 
+    overflow: scroll;
+  }
+  
+  &__logo{
+    width: 100%;
+    height: 150px;
+    padding:10px 10px;
+    background-color:white;
+  }
+  
+  &__center{
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    #button{
+      border-radius: 10px;
+      padding: 15px;
+      font-size:25px;
+      color:white;
+      background: red;
+      outline: none;
+      cursor: pointer;
+      box-shadow: 3px 3px 4px gray;
+      transition: 1s;
+      &:hover{
+        color:white;
+        box-shadow: none;
+        transform: translate3d(0, 2px, 0);
+      }
+    }
+
+  }
+  &__bottom{
+    position: absolute;
+    bottom: 1px;
+  }
+  &__btn{
+    padding-left:10px ;
+    font-size: 20px;
+    display: block;
+    width :150px;
+    color:white;
+    text-decoration: none;
+    line-height: 40px;
+    border:solid 1px white;
+    background-color:#BBBBBB;
+    text-decoration:none;
+    opacity: 0.75;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+
+    &--user{
+      background-color:black;
+   
+    }
+    &--top{
+      background-color:green;
+     
+    }
+    &--facebook{
+      background-color: #4169e1;
+      
+    }
+    &--twitter{
+      background-color: #00bfff;
+     
+    }
+    &--instagram{
+      background-color: #FF1493;
+     
+    }
+    &:hover{
+      opacity: 1;
+    }
+  }
+}

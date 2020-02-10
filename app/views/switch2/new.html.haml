@@ -1,0 +1,23 @@
+.wrapper
+  .main
+    .main__header
+      =render "contents/main__header"
+    
+    .main__center
+      .main__center__left
+        %audio{id:"audio"}
+          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        .main__center__left__name
+          ﾏｲｹﾙ・ｼﾞｮｰﾀﾞﾝ
+        .main__center__left__work
+          NBAプレイヤー
+      .main__center__image
+        =link_to image_tag("/assets/マイケル2.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2131616827716144501"
+        .text
+          ☝︎名言集は画像をClick!!
+
+    .footer
+      .footer__message
+        人生で何度も何度も失敗してきた。だから私は成功したんだ。
+
+  =render "contents/side"

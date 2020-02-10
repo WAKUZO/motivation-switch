@@ -1,0 +1,23 @@
+.wrapper
+  .main
+    .main__header
+      =render "contents/main__header"
+    
+    .main__center
+      .main__center__left
+        %audio{id:"audio"}
+          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        .main__center__left__name
+          GACKT
+        .main__center__left__work
+          シンガーソングライター
+      .main__center__image
+        =link_to image_tag("/assets/GACKT.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2134132853064325101"
+        .text
+          ☝︎名言集は画像をClick!!
+
+    .footer
+      .footer__message
+        笑いながら前に進めば、どんな嫌なことも必ず後で笑い話になるよ。
+
+  =render "contents/side"

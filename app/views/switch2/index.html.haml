@@ -1,0 +1,23 @@
+.wrapper
+  .main
+    .main__header
+      =render "contents/main__header"
+    
+    .main__center
+      .main__center__left
+        %audio{id:"audio"}
+          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        .main__center__left__name
+          真子 就有
+        .main__center__left__work
+          起業家
+      .main__center__image
+        =link_to image_tag("/assets/真子なり.jpg", width:"450", height:"300", id:"image"),"https://taku-info.com/makonari-quotes/"
+        .text
+          ☝︎名言集は画像をClick!!
+
+    .footer
+      .footer__message
+        「好きな事をやる」のではなく「嫌じゃない事ならやってみる」
+
+  =render "contents/side"

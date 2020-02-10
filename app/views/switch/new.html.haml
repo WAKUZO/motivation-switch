@@ -1,0 +1,24 @@
+.wrapper
+  .main
+    .main__header
+      =render "contents/main__header"
+    
+    .main__center
+      .main__center__left
+        %audio{id:"audio"}
+          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        .main__center__left__name
+          稲盛 和夫
+        .main__center__left__work
+          京セラ・KDDI創業者
+      .main__center__image
+        =link_to image_tag("/assets/稲盛和夫.png", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2148295461835541301"
+        .text
+          ☝︎名言集は画像をClick!!   
+
+    .footer
+      .footer__message
+        世の中に失敗というものはない。諦めた時が失敗である。
+
+
+  =render "contents/side"

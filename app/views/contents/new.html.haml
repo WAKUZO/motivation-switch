@@ -1,0 +1,25 @@
+.wrapper
+  .main
+    .main__header
+      =render "main__header"
+    
+    .main__center
+      .main__center__left
+        %audio{id:"audio"}
+          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        .main__center__left__name
+          イチロー
+        .main__center__left__work
+          野球選手
+      .main__center__image
+        =link_to image_tag("イチロー.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2133414522447477501"
+        .text
+          ☝︎名言集は画像をClick!!
+
+    .footer
+      .footer__message
+        小さな事の積み重ねがとんでもない所に行くただ一つの道。
+
+
+
+  =render "side"

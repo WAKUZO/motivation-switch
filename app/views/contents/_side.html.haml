@@ -1,0 +1,21 @@
+.side
+  .side__logo
+    = image_tag("情熱大陸ロゴ.png", size: "130x130")
+  .side__center
+    = button_tag 'START', type: 'button', id:"button"
+  .side__bottom
+    =link_to root_path, class:"side__btn side__btn--top" do
+      = icon('fas','step-backward')
+      TOPへ戻る
+    =link_to new_user_registration_path , class:"side__btn side__btn--user" do
+      = icon('fas','plus-square')
+      新規登録
+    = link_to "https://www.facebook.com/", class: "side__btn side__btn--facebook" do
+      = icon('fab', 'facebook-square')
+      Facebook
+    = link_to "https://twitter.com/", class: "side__btn side__btn--twitter" do
+      = icon('fab', 'twitter')
+      Twitter
+    = link_to "https://www.instagram.com/", class: "side__btn side__btn--instagram" do
+      = icon('fab', 'instagram')
+      Instagram

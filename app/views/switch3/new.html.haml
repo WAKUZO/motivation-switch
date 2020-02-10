@@ -1,0 +1,23 @@
+.wrapper
+  .main
+    .main__header
+      =render "contents/main__header"
+    
+    .main__center
+      .main__center__left
+        %audio{id:"audio"}
+          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        .main__center__left__name
+          ボブ・マーリー
+        .main__center__left__work
+          レゲエミュージシャン
+      .main__center__image
+        =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OL8cxwsu6qk9BmIStJgySGUnvrJoeiy5MH_t4B4R5vwOTC8Yqw&s", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2143692911351333101"
+        .text
+          ☝︎名言集は画像をClick!!
+
+    .footer
+      .footer__message
+        自分の生きる人生を愛せ。自分の愛する人生を生きろ。
+
+  =render "contents/side"
