@@ -64,4 +64,4 @@ gem "font-awesome-sass"
 gem "jquery-rails"
 gem 'erb2haml' 
 gem 'devise'
-
+gem 'addressable', require: 'addressable/uri'
