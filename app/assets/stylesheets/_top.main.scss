@@ -202,8 +202,8 @@
     
       &__video{
         width:100%;
-        transform: scaleX(1.3);
         height:calc(100vh - 70px);
+        object-fit: cover;
         @media screen and (max-width: 812px) { 
         width:100%;
         transform: scaleX(1.6);
