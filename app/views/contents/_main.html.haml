@@ -8,8 +8,9 @@
   
   .main-content__center
     .main-content__center__left
-      %audio{id:"audio"}
-        %source{ src:"/assets/情熱大陸 OP.mp3"}
+      = audio_tag "情熱大陸 OP.mp3",id:"audio"
+      -# %audio{id:"audio"}
+      -#   %source{ src:"/assets/audios/情熱大陸 OP.mp3"}
       .main-content__center__left__name
         本田 圭佑
       .main-content__center__left__work
