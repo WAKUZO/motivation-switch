@@ -1,17 +1,17 @@
 .wrapper
-  .main
-    .main__header
+  .main-content
+    .main-content__header
       =render "contents/main__header"
     
-    .main__center
-      .main__center__left
+    .main-content__center
+      .main-content__center__left
         %audio{id:"audio"}
           %source{ src:"/assets/情熱大陸 OP.mp3"}
-        .main__center__left__name
+        .main-content__center__left__name
           トーマス.エジソン
-        .main__center__left__work
+        .main-content__center__left__work
           発明家・起業家
-      .main__center__image
+      .main-content__center__image
         =link_to image_tag("https://kohkira.com/wp-content/uploads/2017/01/thomas-alva-edison-67763_640-1.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2147903059338929601"
         .text
           ☝︎名言集は画像をClick!!

@@ -1,25 +1,26 @@
-.wrapper
-  .main
-    .main__header
-      =render "main__header"
-    
-    .main__center
-      .main__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
-        .main__center__left__name
-          イチロー
-        .main__center__left__work
-          野球選手
-      .main__center__image
-        =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC9kNFHMKzVJh2M0Gfhh0sau1UdqE8EpjZmiFwM47qQm-69XaR", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2133414522447477501"
-        .text
-          ☝︎名言集は画像をClick!!
+.main-content
+  .main-content__header
+    .main-content__header__guest
+      今回のゲスト
+    .LikesIcon
+      %i.far.fa-star.LikesIcon-fa-star
+        いいね!!
 
-    .footer
-      .footer__message
-        小さな事の積み重ねがとんでもない所に行くただ一つの道。
+  .main-content__center
+    .main-content__center__left
+      %audio{id:"audio"}
+        %source{ src:"/assets/情熱大陸 OP.mp3"}
+      .main-content__center__left__name
+        イチロー
+      .main-content__center__left__work
+        野球選手
+    .main-content__center__image
+      =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC9kNFHMKzVJh2M0Gfhh0sau1UdqE8EpjZmiFwM47qQm-69XaR", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2133414522447477501"
+      .text
+        ☝︎名言集は画像をClick!!
 
+  .footer
+    .footer__message
+      小さな事の積み重ねがとんでもない所に行くただ一つの道。
 
-
-  =render "side"
+=render "side"

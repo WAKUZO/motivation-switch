@@ -9,7 +9,7 @@
       - if user_signed_in?
         =link_to edit_user_path(current_user) , class:"main__top__header__menu__btn" do
           =icon('fas', 'cog')
-          = current_user.nickname
+          = current_user.name
           
         =link_to destroy_user_session_path, method: :delete,  class:"main__top__header__menu__btn" do
           =icon('fas', 'sign-out-alt')
@@ -41,7 +41,8 @@
         = icon('fab', 'instagram')
         
   .main__top__images
-    = image_tag("https://cdn.pixabay.com/photo/2017/05/25/15/08/jogging-2343558__480.jpg" ,class:"main__top__images")
+    -# = image_tag("https://cdn.pixabay.com/photo/2017/05/25/15/08/jogging-2343558__480.jpg" ,class:"main__top__images")
+    = video_tag("/assets/videos/video.mp4", autoplay: true, muted: true,  loop:true, preload: true ,width: "1200", height:"580" ,class: "main__top__images__video")
     .accordion
       著名人一覧
       %ul.menu

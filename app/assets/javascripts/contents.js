@@ -3,8 +3,8 @@ let persons = ['本田圭佑','イチロー','マイケル・ジョーダン','�
 $(function(){
   
   $('#button').on('click',function(){
-    
-    $('.main__center__image').animate( { width: 'show' },4000 );
+
+    $('.main-content__center__image').animate( { width: 'show' },4000 );   
     
     
     $('.footer__message').css({
@@ -15,19 +15,19 @@ $(function(){
           opacity:"1.0"
       },9000);
     
-    $('.main__center').css({
-      
-      opacity:"0.0"
+      $('.main-content__center').css({
+          
+        opacity:"0.0"
       }).animate({
           
           opacity:"1.0"
       },10000);
 
-    $('.main__center__left__name').animate({
+    $('.main-content__center__left__name').animate({
       opacity: 100
       }, 90000);
 
-    $('.main__center__left__work').animate({
+    $('.main-content__center__left__work').animate({
         opacity: 100
         }, 90000);
     
@@ -104,7 +104,7 @@ $(function(){
 
       $btn.addClass('on');
 
-      // ポイントは2つ！！
+      
       // ①アイコンを変更する
       // far fa-heart（白抜きアイコン）
       // ⇒ fas fa-heart（背景色つきアイコン）

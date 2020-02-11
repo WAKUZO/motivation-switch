@@ -1,17 +1,17 @@
 .wrapper
-  .main
-    .main__header
+  .main-content
+    .main-content__header
       =render "contents/main__header"
     
-    .main__center
-      .main__center__left
+    .main-content__center
+      .main-content__center__left
         %audio{id:"audio"}
           %source{ src:"/assets/情熱大陸 OP.mp3"}
-        .main__center__left__name
+        .main-content__center__left__name
           堀江 貴文
-        .main__center__left__work
+        .main-content__center__left__work
           タレント・実業家
-      .main__center__image
+      .main-content__center__image
         =link_to image_tag("https://tk.ismcdn.jp/mwimgs/e/8/1140/img_e84ffe34a874bb2776a07741bae18a21379593.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2147484903361079301"
         .text
           ☝︎名言集は画像をClick!!

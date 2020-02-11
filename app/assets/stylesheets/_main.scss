@@ -1,11 +1,10 @@
-.main{
+.main-content{
   width: calc(100vw - 150px);
   height: 520px;
   float: right;
   &__header{
     width: calc(100vw - 150px);
     height:70px;
-    // background: -webkit-linear-gradient(left, blue, #FFF);
     background: blue;
     color: white;
     display: flex;
@@ -55,8 +54,8 @@
   }
   
   &__center{
-    height: 365px;
-    padding:15px;
+    height: calc(100vh - 170px);
+    width:100%;
     background-image: image-url("haikei.jpg");
     opacity: 0;
     background-size:cover;
@@ -66,21 +65,21 @@
     background-blend-mode:hard-light;
     float:right;
     &__left{
-      padding: 20px;
+      padding: 40px;
       display: block;
       width: 500px;
       display: flex;
       justify-content: center;
       align-items: center;
       position: relative;
-    
+      
       &__name{
         font-size: 50px;
         display: block;
         font-family: serif;
         position: absolute;
-        top: 20px;
-        left: 70px;
+        top: 45px;
+        left: 80px;
         border-top: solid 3px black;
         border-bottom: solid 3px black;
         opacity: 0;
@@ -89,36 +88,37 @@
       }
       &__work{
         font-size: 30px;
-        padding-bottom: 50px;
+        padding-bottom: 80px;
         opacity: 0;
         font-weight: bold;
       }
       
     }
     &__image{
-      margin: 15px 50px 0 0;
+      margin: 40px 50px 0 0;
       display: none;
       cursor: pointer;
+    }
+
+    .text{
+      font-size: 20px;
     }
       
   }
 
-
   .footer{
     background-color: black;
     width: calc(100vw - 150px);
-    height:85px;
+    height:100px;
     border: solid 2px white;
     float: right;
     &__message{
       line-height: 85px;
-      font-size: 30px;
+      font-size: 35px;
       font-weight: bold;
       color: white;
       opacity: 0;
       text-align: center;
-      
-      // display: none;
     }
   }
 }

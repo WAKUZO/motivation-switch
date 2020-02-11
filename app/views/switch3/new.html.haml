@@ -1,17 +1,17 @@
 .wrapper
-  .main
-    .main__header
+  .main-content
+    .main-content__header
       =render "contents/main__header"
     
-    .main__center
-      .main__center__left
+    .main-content__center
+      .main-content__center__left
         %audio{id:"audio"}
           %source{ src:"/assets/情熱大陸 OP.mp3"}
-        .main__center__left__name
+        .main-content__center__left__name
           ボブ・マーリー
-        .main__center__left__work
+        .main-content__center__left__work
           レゲエミュージシャン
-      .main__center__image
+      .main-content__center__image
         =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OL8cxwsu6qk9BmIStJgySGUnvrJoeiy5MH_t4B4R5vwOTC8Yqw&s", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2143692911351333101"
         .text
           ☝︎名言集は画像をClick!!
