@@ -8,14 +8,13 @@
 
   .main-content__center
     .main-content__center__left
-      %audio{id:"audio"}
-        %source{ src:"/assets/情熱大陸 OP.mp3"}
+      = audio_tag "情熱大陸 OP.mp3",id:"audio"
       .main-content__center__left__name
         イチロー
       .main-content__center__left__work
         野球選手
     .main-content__center__image
-      =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC9kNFHMKzVJh2M0Gfhh0sau1UdqE8EpjZmiFwM47qQm-69XaR", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2133414522447477501"
+      =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC9kNFHMKzVJh2M0Gfhh0sau1UdqE8EpjZmiFwM47qQm-69XaR", width:"500", height:"400", id:"image"),"https://matome.naver.jp/odai/2133414522447477501"
       .text
         ☝︎名言集は画像をClick!!
 
