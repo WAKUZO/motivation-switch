@@ -5,20 +5,18 @@
     
     .main-content__center
       .main-content__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        = audio_tag "情熱大陸 OP.mp3",id:"audio"
         .main-content__center__left__name
           Steve Jobs
         .main-content__center__left__work
           Apple創業者
       .main-content__center__image
-        =link_to image_tag("https://i0.wp.com/meigen-ijin.com/wp/wp-content/uploads/2013/06/stevejobs400.jpg?resize=400%2C260&ssl=1", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2156643567763007801"
+        =link_to image_tag("https://i0.wp.com/meigen-ijin.com/wp/wp-content/uploads/2013/06/stevejobs400.jpg?resize=400%2C260&ssl=1", width:"500", height:"400", id:"image"),"https://matome.naver.jp/odai/2156643567763007801"
         .text
           ☝︎名言集は画像をClick!! 
 
     .footer
       .footer__message
         Connecting The Dots　〜点と点は後から繋がっていくのです〜
-
 
   =render "contents/side"

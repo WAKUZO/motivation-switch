@@ -5,14 +5,13 @@
     
     .main-content__center
       .main-content__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        = audio_tag "情熱大陸 OP.mp3",id:"audio"
         .main-content__center__left__name
           美輪 明宏
         .main-content__center__left__work
           俳優・演出家
       .main-content__center__image
-        =link_to image_tag("http://kokoro-movie.com/wp-content/uploads/2018/07/17miwa.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2135958089551123301"
+        =link_to image_tag("http://kokoro-movie.com/wp-content/uploads/2018/07/17miwa.jpg", width:"500", height:"350", id:"image"),"https://matome.naver.jp/odai/2135958089551123301"
         .text
           ☝︎名言集は画像をClick!!
 

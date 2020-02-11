@@ -5,14 +5,13 @@
     
     .main-content__center
       .main-content__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        = audio_tag "情熱大陸 OP.mp3",id:"audio"
         .main-content__center__left__name
           織田 信長
         .main-content__center__left__work
           戦国武将
       .main-content__center__image
-        =link_to image_tag("https://mk0sekainorekisr2s2b.kinstacdn.com/wp-content/uploads/2018/04/Oda-Nobunaga.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2152423308424018501"
+        =link_to image_tag("https://mk0sekainorekisr2s2b.kinstacdn.com/wp-content/uploads/2018/04/Oda-Nobunaga.jpg", width:"500", height:"350", id:"image"),"https://matome.naver.jp/odai/2152423308424018501"
         .text
           ☝︎名言集は画像をClick!!
 

@@ -1,18 +1,17 @@
 .wrapper
-  .main
-    .main__header
+  .main-content
+    .main-content__header
       =render "contents/main__header"
     
-    .main__center
-      .main__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
-        .main__center__left__name
+    .main-content__center
+      .main-content__center__left
+        = audio_tag "情熱大陸 OP.mp3",id:"audio"
+        .main-content__center__left__name
           真子 就有
-        .main__center__left__work
+        .main-content__center__left__work
           起業家
-      .main__center__image
-        =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAfl0rEfbQCx8WaqNdTI_CzkKcm-VUzDqol54SKx3SEKxwTsI6", width:"450", height:"300", id:"image"),"https://taku-info.com/makonari-quotes/"
+      .main-content__center__image
+        =link_to image_tag("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAfl0rEfbQCx8WaqNdTI_CzkKcm-VUzDqol54SKx3SEKxwTsI6", width:"500", height:"400", id:"image"),"https://taku-info.com/makonari-quotes/"
         .text
           ☝︎名言集は画像をClick!!
 

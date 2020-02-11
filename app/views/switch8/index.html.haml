@@ -5,14 +5,13 @@
     
     .main-content__center
       .main-content__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        = audio_tag "情熱大陸 OP.mp3",id:"audio"
         .main-content__center__left__name
           錦織 圭
         .main-content__center__left__work
           テニスプレイヤー
       .main-content__center__image
-        =link_to image_tag("http://nisikorikeisdraw.com/wp-content/uploads/2017/05/01-4.jpg", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2153139237394476501?page=2"
+        =link_to image_tag("http://nisikorikeisdraw.com/wp-content/uploads/2017/05/01-4.jpg", width:"500", height:"350", id:"image"),"https://matome.naver.jp/odai/2153139237394476501?page=2"
         .text
           ☝︎名言集は画像をClick!!
 

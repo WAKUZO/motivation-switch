@@ -5,14 +5,13 @@
     
     .main-content__center
       .main-content__center__left
-        %audio{id:"audio"}
-          %source{ src:"/assets/情熱大陸 OP.mp3"}
+        = audio_tag "情熱大陸 OP.mp3",id:"audio"
         .main-content__center__left__name
           坂本 龍馬
         .main-content__center__left__work
           幕末の志士
       .main-content__center__image
-        =link_to image_tag("https://hinotorifugetsu.com/wp-content/uploads/2018/12/ryoma-1.png", width:"450", height:"300", id:"image"),"https://matome.naver.jp/odai/2147938229367268601"
+        =link_to image_tag("https://hinotorifugetsu.com/wp-content/uploads/2018/12/ryoma-1.png", width:"500", height:"350", id:"image"),"https://matome.naver.jp/odai/2147938229367268601"
         .text
           ☝︎名言集は画像をClick!!
 
