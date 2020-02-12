@@ -1,10 +1,10 @@
 <h1 align="center">Motivation🔘Switch</h1>
 
-<h2 align="center">🔥やる気の「スイッチ」を入れるアプリ</h2>
+<h2 align="center">🔥やる気の「スイッチ」を入れます🔥</h2>
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
-<h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーション上げていきますー</h3>
+<h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーション上げれますー</h3>
 
 <a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
 
