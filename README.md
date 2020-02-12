@@ -1,6 +1,6 @@
 <h1 align="center">Motivation-Switch</h3>
 
-![TOPページ](https://gyazo.com/ac6c6cac37b12237994d4bf6668d40ed/raw)
+<a href="https://gyazo.com/ac6c6cac37b12237994d4bf6668d40ed"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/ac6c6cac37b12237994d4bf6668d40ed.mp4" type="video/mp4" /></video></a>
 
 ### (例)本田圭佑ver
 ![DEMO](/raw)
