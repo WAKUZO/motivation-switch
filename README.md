@@ -9,7 +9,7 @@
 <br>
 <h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
 
-![honda](https://gyazo.com/5cb1aed54b688e0f521a8f0726618b9a/raw)  
+![honda](https://gyazo.com/5cb1aed54b688e0f521a8f0726618b9a/raw)
 <br>
 
 # App URL
