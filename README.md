@@ -4,14 +4,16 @@
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
-<h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーションを上げれますー</h3>    
 
-<h2 align="center">(例)スポーツ選手「本田圭佑」</h2>
+<h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーションを上げれますー</h3>
+<br>
+<h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
+
 
 ![honda](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)  
+<br>
 
-
-## App URL
+# App URL
 
 http://18.178.244.243/
 
@@ -19,13 +21,13 @@ http://18.178.244.243/
   - メールアドレス:test@test.com
   - パスワード: test1111
 ##### ※ユーザー登録をして頂ければ"?"の偉人を、見れます。  
+<br>
 
-
-## Features
+# Features
 
 <h2 align="center">jQueryを活用し動的なサイトに</h2>
 <h3 align="center">on.clickアクションでアニメーションが発火します</h3>
-<p1 align="center">→animate,audio,css,text</p1>
+<h4 align="center">→animate,audio,css,text</h4>
 ![DEMO](/raw)
 
 <h2 align="center">アコーディオンメニュー</h2>
@@ -36,9 +38,9 @@ http://18.178.244.243/
 ![DEMO](/raw)
 
 - CapistranoによるAWS EC2への自動デプロイ  
+<br>
 
-
-## Usage
+# Usage
 
 ```
 $ git clone https://github.com/WAKUZO/motivation-switch.git
@@ -47,18 +49,18 @@ $ bundle install
 $ rails db:create
 $ rails db:migrate
 $ rails s
-👉 http://localhost:3000
+→http://localhost:3000
 ```  
+<br>
 
-
-## language
+# language
 
 - Ruby (Ruby on Rails)
 - haml,scss
 - javascript(jquery)  
+<br>
 
-
-## Author
+# Author
 
 - GitHub
   ：<a href="https://github.com/WAKUZO?tab=repositories">@WAKUZO</a>
