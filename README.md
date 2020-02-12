@@ -25,6 +25,7 @@
 <br>
 
 # Features
+<br>
 
 <h2 align="center">★jQueryを活用し動的なサイトに</h2>
 <h3 align="center">STARTボタンを押すと、on.clickアクションが発火します</h3>
