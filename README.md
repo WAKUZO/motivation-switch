@@ -1,6 +1,7 @@
 <h1 align="center">Motivation-Switch</h1>
 
 <h2 align="center"> やる気の「スイッチ」を入れるアプリ。情熱大陸に乗せて偉人の名言や名言集を見れます。</h2>
+<h3 align="center"> 情熱大陸に乗せて偉人の名言や名言集を見れます。</h3>
 
 <a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
 
