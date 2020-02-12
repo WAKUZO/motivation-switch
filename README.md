@@ -4,9 +4,9 @@
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
-
 <h3 align="center">〜情熱大陸のOP曲に乗せて各界の偉人の名言、名言集を見てモチベーションUPに繋げます〜</h3>
 <br>
+
 <h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
 
 ![honda](https://gyazo.com/5cb1aed54b688e0f521a8f0726618b9a/raw)
@@ -20,7 +20,7 @@ http://18.178.244.243/
 ### テストユーザーアカウント
   - メールアドレス:test@test.com
   - パスワード: test1111
-#### ※ユーザー登録をして頂ければ "?" の偉人を見れます。  
+#### ※ユーザー登録をして頂ければ "?" の中の偉人を見れます。  
 <br>
 
 # Features
@@ -28,14 +28,14 @@ http://18.178.244.243/
 <h2 align="center">jQueryを活用し動的なサイトに</h2>
 <h3 align="center">on.clickアクションでアニメーションが発火します</h3>
 <h4 align="center">→animate,audio,css,text</h4>
-![DEMO](/raw)
+![アクション](/raw)
 
 <h2 align="center">アコーディオンメニュー</h2>
 
-![DEMO](/raw)
+![メニュー](/raw)
 
-<h2 align="center">jQueryを使用した検索機能</h2>
-![DEMO](/raw)
+<h2 align="center">jQueryで正規表現の前方一致を使用した検索機能</h2>
+![検索](https://gyazo.com/bf6e668b92bcb365a62a6cb23a6d3c70/raw)
 
 - CapistranoによるAWS EC2への自動デプロイ  
 <br>
