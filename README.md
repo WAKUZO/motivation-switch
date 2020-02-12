@@ -7,6 +7,7 @@
 <h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーションを上げれますー</h3>
 
 
+
 <h2 align="center">(例)スポーツ選手「本田圭佑」</h2>
 
 ![honda](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)
