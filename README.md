@@ -11,7 +11,7 @@
 ![honda](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)  
 <br>
 
-## App URL
+# App URL
 
 http://18.178.244.243/
 
@@ -21,7 +21,7 @@ http://18.178.244.243/
 ##### ※ユーザー登録をして頂ければ"?"の偉人を、見れます。  
 <br>
 
-## Features
+# Features
 
 <h2 align="center">〜jQueryを活用し動的なサイトに〜</h2>
 <h3 align="center">on.clickアクションでアニメーションが発火します</h3>
@@ -38,7 +38,7 @@ http://18.178.244.243/
 - CapistranoによるAWS EC2への自動デプロイ  
 <br>
 
-## Usage
+# Usage
 
 ```
 $ git clone https://github.com/WAKUZO/motivation-switch.git
@@ -51,14 +51,14 @@ $ rails s
 ```  
 <br>
 
-## language
+# language
 
 - Ruby (Ruby on Rails)
 - haml,scss
 - javascript(jquery)  
 <br>
 
-## Author
+# Author
 
 - GitHub
   ：<a href="https://github.com/WAKUZO?tab=repositories">@WAKUZO</a>
