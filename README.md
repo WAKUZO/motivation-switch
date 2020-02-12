@@ -9,17 +9,17 @@
 <h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
 
 ![honda](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)  
-
+<br>
 
 ## App URL
 
 http://18.178.244.243/
-    
+
 #### テストユーザーアカウント
   - メールアドレス:test@test.com
   - パスワード: test1111
 ##### ※ユーザー登録をして頂ければ"?"の偉人を、見れます。  
-
+<br>
 
 ## Features
 
@@ -36,7 +36,7 @@ http://18.178.244.243/
 ![DEMO](/raw)
 
 - CapistranoによるAWS EC2への自動デプロイ  
-
+<br>
 
 ## Usage
 
