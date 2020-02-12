@@ -28,11 +28,14 @@ http://18.178.244.243/  (CapistranoによるAWS EC2への自動デプロイ)
 <h2 align="center">jQueryを活用し動的なサイトに</h2>
 <h3 align="center">on.clickアクションでアニメーションが発火します</h3>
 <h4 align="center">→animate,audio,css,text</h4>
-![アクション](/raw)
+
+![アクション](https://gyazo.com/e43c740fc1e92b8b546cf69cd28f36be/raw)
+<br>
 
 <h2 align="center">アコーディオンメニュー</h2>
 
 ![メニュー](https://gyazo.com/afd15719da9864753604acc9f3f2e9dc/raw)
+<br>
 
 <h2 align="center">正規表現の前方一致を使用した検索機能</h2>
 
