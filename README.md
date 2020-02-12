@@ -53,17 +53,16 @@ $ rails s
 ```  
 <br>
 
+# Note
+
+※ 音が出ますので、音量に注意して下さい。
+<br>
+
 # Language
 
 - Ruby (Ruby on Rails)
 - haml,scss
 - javascript(jquery)  
-<br>
-
-# Note
-
-※ 音が出ますので、音量に注意して下さい。
-<br>
 <br>
 
 # Author
