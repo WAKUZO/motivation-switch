@@ -1,6 +1,6 @@
 <h1 align="center">Motivation-Switch</h1>
 
-<h2 align="center">やる気の「スイッチ」を入れるアプリ</h2>
+<p1 align="center">やる気の「スイッチ」を入れるアプリ</p1>
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
@@ -11,6 +11,7 @@
 <h2 align="center">(例)本田圭佑</h2>
 ![DEMO](/raw)
 
+
 ## App URL
 
 http://18.178.244.243/
@@ -20,11 +21,12 @@ http://18.178.244.243/
   - パスワード: test1111
 ##### ※ユーザー登録をして頂ければ"?"の偉人を、見れます。
 
+
 ## Features
 
 <h2 align="center">jQueryを活用し動的なサイトに</h2>
 <h3 align="center">on.clickアクションでアニメーションが発火します</h3>
-<h4 align="center">→animate,audio,css,text</h3>
+<p1 align="center">→animate,audio,css,text</p1>
 ![DEMO](/raw)
 
 <h2 align="center">アコーディオンメニュー</h2>
@@ -35,6 +37,7 @@ http://18.178.244.243/
 ![DEMO](/raw)
 
 - CapistranoによるAWS EC2への自動デプロイ
+
 
 ## Usage
 
@@ -48,11 +51,13 @@ $ rails s
 👉 http://localhost:3000
 ```
 
+
 ## language
 
 - Ruby (Ruby on Rails)
 - haml,scss
 - javascript(jquery)
+
 
 ## Author
 
