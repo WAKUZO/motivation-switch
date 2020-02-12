@@ -1,4 +1,4 @@
-## <h3 align="center">Motivation-Switch</h3>
+<h2 align="center">Motivation-Switch</h3>
 
 ![TOPページ](https://gyazo.com/bdebd0ff8af59e40110d9afeccdcbe43/raw)
 
