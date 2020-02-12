@@ -47,4 +47,8 @@ $ rails s
 
 ## Author
 
-<a href="https://github.com/WAKUZO?tab=repositories">@WAKUZO</a>
+- GitHub
+  <a href="https://github.com/WAKUZO?tab=repositories">@WAKUZO</a>
+- Twitter
+  <a href="https://twitter.com/WAKUZ0_2">@WAKUZ0_2</a>
+
