@@ -8,7 +8,8 @@
 
 <a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
 
-<h2 align="center">スポーツ「本田圭佑」</h2>
+
+<h2 align="center">(例)スポーツ選手「本田圭佑」</h2>
 
 ![honda](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)
 
