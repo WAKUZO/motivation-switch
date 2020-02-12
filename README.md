@@ -32,7 +32,7 @@ http://18.178.244.243/  (CapistranoによるAWS EC2への自動デプロイ)
 
 <h2 align="center">アコーディオンメニュー</h2>
 
-![メニュー](https://gyazo.com/669b0d2abe593a791dab0d1f69866e86/raw)
+![メニュー](https://gyazo.com/afd15719da9864753604acc9f3f2e9dc/raw)
 
 <h2 align="center">正規表現の前方一致を使用した検索機能</h2>
 
