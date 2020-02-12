@@ -1,6 +1,6 @@
 <h1 align="center">Motivation-Switch</h1>
 
-<h2 align="center">🔥やる気の「スイッチ」を入れます🔥</h2>
+<h2 align="center">🔥やる気の「スイッチ」を入れるアプリ🔥</h2>
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
@@ -9,8 +9,7 @@
 <br>
 <h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
 
-
-![honda](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)  
+![honda](https://gyazo.com/25272f5804f0d97e68ccdfc7d9fc6440/raw)  
 <br>
 
 # App URL
