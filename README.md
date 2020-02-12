@@ -23,16 +23,16 @@ http://18.178.244.243/
 
 ## Features
 
-<h2 align="center">jQueryを活用し動的なサイトに</h2>
+<h2 align="center">〜jQueryを活用し動的なサイトに〜</h2>
 <h3 align="center">on.clickアクションでアニメーションが発火します</h3>
 <p1 align="center">→animate,audio,css,text</p1>
 ![DEMO](/raw)
 
-<h2 align="center">アコーディオンメニュー</h2>
+<h2 align="center">＜アコーディオンメニュー＞</h2>
 
 ![DEMO](/raw)
 
-<h2 align="center">jQueryを使用した検索機能</h2>
+<h2 align="center">ーjQueryを使用した検索機能ー</h2>
 ![DEMO](/raw)
 
 - CapistranoによるAWS EC2への自動デプロイ  
