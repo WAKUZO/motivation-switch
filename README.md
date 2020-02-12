@@ -15,7 +15,7 @@
 
 # App URL
 
-http://18.178.244.243/
+http://18.178.244.243/  (CapistranoによるAWS EC2への自動デプロイ)
 
 ### テストユーザーアカウント
   - メールアドレス:test@test.com
@@ -38,7 +38,6 @@ http://18.178.244.243/
 
 ![検索](https://gyazo.com/bf6e668b92bcb365a62a6cb23a6d3c70/raw)
 
-- CapistranoによるAWS EC2への自動デプロイ  
 <br>
 
 # Usage
@@ -65,7 +64,7 @@ $ rails s
 
 ※ 音が出ますので、音量に注意して下さい。
 <br>
-
+<br>
 
 # Author
 
