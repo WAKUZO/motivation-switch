@@ -49,14 +49,14 @@ $ rails db:migrate
 $ rails s
 👉 http://localhost:3000
 ```  
-
+<br>
 
 ## language
 
 - Ruby (Ruby on Rails)
 - haml,scss
 - javascript(jquery)  
-
+<br>
 
 ## Author
 
