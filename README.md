@@ -1,6 +1,8 @@
-<h1 align="center">Motivation-Switch</h3>
+<h1 align="center">Motivation-Switch</h1>
 
-<a href="https://i.gyazo.com/ac6c6cac37b12237994d4bf6668d40ed.mp4"></a>
+<h2 align="center"> やる気の「スイッチ」を入れるアプリ。情熱大陸に乗せて偉人の名言や名言集を見れます。</h2>
+
+<a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
 
 ### (例)本田圭佑ver
 ![DEMO](/raw)
