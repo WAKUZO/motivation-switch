@@ -6,8 +6,6 @@
 
 <h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーションを上げれますー</h3>
 
-<a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
-
 
 <h2 align="center">(例)スポーツ選手「本田圭佑」</h2>
 
