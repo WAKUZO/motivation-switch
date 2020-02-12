@@ -5,7 +5,7 @@
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
 
-<h3 align="center">ー情熱大陸OPに乗せて各界の偉人の名言、名言集を見てモチベーションを上げれますー</h3>
+<h3 align="center">〜情熱大陸のOP曲に乗せて各界の偉人の名言、名言集を見てモチベーションを上げれます〜</h3>
 <br>
 <h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
 
@@ -17,7 +17,7 @@
 
 http://18.178.244.243/
 
-- テストユーザーアカウント
+### テストユーザーアカウント
   - メールアドレス:test@test.com
   - パスワード: test1111
 #### ※ユーザー登録をして頂ければ"?"の偉人を、見れます。  
@@ -53,11 +53,16 @@ $ rails s
 ```  
 <br>
 
-# language
+# Language
 
 - Ruby (Ruby on Rails)
 - haml,scss
 - javascript(jquery)  
+<br>
+
+# Note
+
+* 音が出ますので、音量などに注意して下さい。
 <br>
 
 # Author
