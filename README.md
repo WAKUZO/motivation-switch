@@ -1,8 +1,5 @@
-## Motivation-Switch
- 
-やる気の「スイッチ」を入れるアプリ。情熱大陸のOPに合わせて各偉人の名言と名言集を見れます。
+## <h3 align="center">Motivation-Switch</h3>
 
-### TOPページ
 ![TOPページ](https://gyazo.com/bdebd0ff8af59e40110d9afeccdcbe43/raw)
 
 ### (例)本田圭佑ver
