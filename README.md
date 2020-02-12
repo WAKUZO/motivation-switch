@@ -2,7 +2,7 @@
 
 <h2 align="center"> やる気の「スイッチ」を入れるアプリ。</h2>
 
-![TOP](/raw)
+![TOP](https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73/raw)
 
 <h2 align="center"> 情熱大陸OPに乗せて偉人の名言や名言集を見れます。</h2>
 
