@@ -4,7 +4,7 @@
 
 ![TOP](https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73/raw)
 
-<h2 align="center"> 情熱大陸OPに乗せて偉人の名言や名言集を見れます。</h2>
+<h2 align="center"> 〜情熱大陸OPに乗せて偉人の名言や名言集を見てモチベーション上げていきます〜</h2>
 
 <a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
 
