@@ -26,7 +26,7 @@
 
 # Features
 
-<h2 align="center">jQueryを活用し動的なサイトに</h2>
+<h2 align="center">★jQueryを活用し動的なサイトに</h2>
 <h3 align="center">STARTボタンを押すと、on.clickアクションが発火します</h3>
 <h3 align="center">→animate,audio,css,text</h3>
 
@@ -34,13 +34,13 @@
 
 <br>
 
-<h2 align="center">アコーディオンメニュー</h2>
+<h2 align="center">★アコーディオンメニュー</h2>
 
 ![メニュー](https://gyazo.com/afd15719da9864753604acc9f3f2e9dc/raw)
 
 <br>
 
-<h2 align="center">正規表現の前方一致を使用した検索機能</h2>
+<h2 align="center">★正規表現の前方一致を使用した検索機能</h2>
 
 ![検索](https://gyazo.com/bf6e668b92bcb365a62a6cb23a6d3c70/raw)
 
