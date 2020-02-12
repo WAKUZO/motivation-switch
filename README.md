@@ -26,8 +26,8 @@ http://18.178.244.243/  (CapistranoによるAWS EC2への自動デプロイ)
 # Features
 
 <h2 align="center">jQueryを活用し動的なサイトに</h2>
-<h3 align="center">on.clickアクションでアニメーションが発火します</h3>
-<h4 align="center">→animate,audio,css,text</h4>
+<h3 align="center">STARTボタンを押すと、on.clickアクションが発火します</h3>
+<h3 align="center">→animate,audio,css,text</h3>
 
 ![アクション](https://gyazo.com/e43c740fc1e92b8b546cf69cd28f36be/raw)
 
