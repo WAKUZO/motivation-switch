@@ -1,4 +1,4 @@
-<h1 align="center">Motivation🔘Switch</h1>
+<h1 align="center">Motivation-Switch</h1>
 
 <h2 align="center">🔥やる気の「スイッチ」を入れます🔥</h2>
 
@@ -9,7 +9,7 @@
 <a href="https://gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73"><video alt="Video from Gyazo" width="1000" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/6e8d1f2c1f99f3ced2d94b02627a3c73.mp4" type="video/mp4" /></video></a>
 
 <h2 align="center">(例)本田圭佑</h2>
-![DEMO](/raw)
+![DEMO](https://gyazo.com/242a69597d7436089b2c77832024c740/raw)
 
 
 ## App URL
