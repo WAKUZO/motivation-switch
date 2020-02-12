@@ -35,6 +35,7 @@ http://18.178.244.243/
 ![メニュー](/raw)
 
 <h2 align="center">jQueryで正規表現の前方一致を使用した検索機能</h2>
+
 ![検索](https://gyazo.com/bf6e668b92bcb365a62a6cb23a6d3c70/raw)
 
 - CapistranoによるAWS EC2への自動デプロイ  
