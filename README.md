@@ -17,7 +17,7 @@
 
 ### http://18.178.244.243/  
 
-#### CapistranoによるAWS EC2への自動デプロイ
+#### (CapistranoによるAWS EC2への自動デプロイ)
 
 <br>
 
