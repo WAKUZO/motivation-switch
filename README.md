@@ -4,7 +4,7 @@
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
-<h2 align="center">〜情熱大陸のOP曲に乗せて各界の偉人の名言、名言集を見てモチベーションUPに繋げます〜</h3>
+<h3 align="center">〜情熱大陸のOP曲に乗せて各界の偉人の名言、名言集を見てモチベーションUPに繋げます〜</h3>
 <br>
 
 <h2 align="center">(例)スポーツ選手 「本田圭佑」</h2>
