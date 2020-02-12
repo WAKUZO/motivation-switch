@@ -1,6 +1,6 @@
 <h1 align="center">Motivation-Switch</h1>
 
-<p3 align="center">やる気の「スイッチ」を入れるアプリ</p3>
+<h2 align="center">やる気の「スイッチ」を入れるアプリ</h2>
 
 ![TOP](https://gyazo.com/b4ce55ad2e1c11b17b62a56c4a5825c0/raw)
 
