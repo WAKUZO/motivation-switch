@@ -1,6 +1,6 @@
-<h1 align="center">Motivation🔘Switch</h3>
+<h1 align="center">Motivation-Switch</h3>
 
-![TOPページ](https://gyazo.com/bdebd0ff8af59e40110d9afeccdcbe43/raw)
+![TOPページ](https://gyazo.com/ac6c6cac37b12237994d4bf6668d40ed/raw)
 
 ### (例)本田圭佑ver
 ![DEMO](/raw)
