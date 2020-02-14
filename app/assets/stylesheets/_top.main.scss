@@ -12,6 +12,7 @@
     color: white;
     @media screen and (max-width: 812px) { 
       height: 60px;
+
       }
     
     &__title{
@@ -206,7 +207,7 @@
         object-fit: cover;
         @media screen and (max-width: 812px) { 
         width:100%;
-        transform: scaleX(1.6);
+        // transform: scaleX(1.6);
         height:calc(100vh - 60px);
         }
       }

@@ -5,7 +5,9 @@
   position: relative;
   position: fixed;
   @media screen and (max-width: 812px) { 
-    overflow: scroll;
+  height:100%;
+  width:130px;
+  
   }
   
   &__logo{
@@ -13,6 +15,12 @@
     height: 150px;
     padding:10px 10px;
     background-color:white;
+    @media screen and (max-width: 812px) { 
+      &__netulogo{
+      height:100px;
+      width:120px;
+      }
+    }
   }
   
   &__center{
@@ -29,6 +37,15 @@
       cursor: pointer;
       box-shadow: 3px 3px 4px gray;
       transition: 1s;
+    }
+    @media screen and (max-width: 812px) { 
+      &__startbtn{
+        margin: 0 auto;
+        align-items: center;
+        text-align: center;
+        top: 0px;
+        }
+
       &:hover{
         color:white;
         box-shadow: none;
@@ -58,24 +75,38 @@
 
     &--user{
       background-color:black;
-   
+      @media screen and (max-width: 812px) { 
+      width: 140px;
+      }
     }
     &--top{
       background-color:green;
-     
+      @media screen and (max-width: 812px) { 
+      width: 140px;
+      }
     }
+
     &--facebook{
       background-color: #4169e1;
-      
+      @media screen and (max-width: 812px) { 
+      display: none;
+      }
     }
+
     &--twitter{
       background-color: #00bfff;
-     
+      @media screen and (max-width: 812px) { 
+      display: none;
+      }
     }
+
     &--instagram{
       background-color: #FF1493;
-     
+      @media screen and (max-width: 812px) { 
+      display: none;
+      }
     }
+
     &:hover{
       opacity: 1;
     }
