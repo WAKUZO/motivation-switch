@@ -17,8 +17,8 @@
     background-color:white;
     @media screen and (max-width: 812px) { 
       &__netulogo{
-      height:100px;
-      width:120px;
+      height:110px;
+      width:110px;
       }
     }
   }
@@ -27,6 +27,11 @@
     height: 150px;
     text-align: center;
     line-height: 250px;
+    @media screen and (max-width: 812px) { 
+      text-align: center;
+      position: relative;
+    }
+    
     #button{
       border-radius: 10px;
       padding: 20px;
@@ -37,20 +42,27 @@
       cursor: pointer;
       box-shadow: 3px 3px 4px gray;
       transition: 1s;
-    }
-    @media screen and (max-width: 812px) { 
-      &__startbtn{
-       
-        }
+      @media screen and (max-width: 812px) { 
+      position: absolute;
+      top: 10px;
+      left: 13px;
+      padding: 12px;
+      font-size:20px;
+      }
+    
 
       &:hover{
         color:white;
         box-shadow: none;
         transform: translate3d(0, 2px, 0);
+        
       }
+
+      
     }
 
   }
+
   &__bottom{
     position: absolute;
     bottom: 1px;
