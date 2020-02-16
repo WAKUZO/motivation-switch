@@ -7,7 +7,6 @@
   @media screen and (max-width: 812px) { 
   height:100%;
   width:130px;
-  
   }
   
   &__logo{
@@ -50,17 +49,14 @@
       font-size:20px;
       }
     
-
       &:hover{
         color:white;
         box-shadow: none;
         transform: translate3d(0, 2px, 0);
         
       }
-
       
     }
-
   }
 
   &__bottom{
@@ -88,6 +84,7 @@
       width: 140px;
       }
     }
+
     &--top{
       background-color:green;
       @media screen and (max-width: 812px) { 
